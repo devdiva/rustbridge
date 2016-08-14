@@ -26,13 +26,13 @@ everything working _before_ you show up for RustBridge.
 
 You can verify that you have everything working by trying this out in your terminal.
 
-Check that you have Rust (at least version X).
+Check that you have Rust (at least version 1.10.0).
 
 ```bash
 rustc --version
 ```
 
-Check that you have Cargo (at least version X).
+Check that you have Cargo (at least version 1.10.0).
 
 ```bash
 cargo --version
@@ -49,6 +49,8 @@ _TODO_
 
 
 ### References
+
+https://www.rust-lang.org/en-US/ 
 
 https://www.rust-lang.org/en-US/downloads.html
 
